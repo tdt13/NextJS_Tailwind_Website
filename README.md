@@ -15,7 +15,7 @@ This is a moderna animated website with a theme around virtual reality built usi
 
 ## Demo
 
-Insert gif or link to demo
+![App Demo](metaverses/starter_repo/modern_animated_site_demo.gif)
 
 
 ## Installation
@@ -30,7 +30,7 @@ Install this modern animated site with npm
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](metaverses/starter_repo/app_screenshot.PNG)
 
 
 ## Tech Stack
